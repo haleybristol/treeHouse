@@ -5,3 +5,228 @@
        -moz-box-sizing: border-box;
             box-sizing: border-box;
 }
+
+* {
+  font-family: 'Lato', sans-serif;
+}
+
+h3 {
+  font-weight: bold;
+  color: #4B5658;
+}
+
+h4 {
+  color: #4B5658;
+}
+
+p {
+  color: #4B5658;
+}
+
+body {
+  background-color: #EDEFF0;
+}
+/*.row1 {
+  float: right;
+  width: 100%;
+}*/
+.header {
+  padding: 10px;
+  width: 100%;
+  border-bottom: 2px solid #D0D2D3;
+  box-shadow: 1px 1px 5px #D0D2D3;
+}
+
+#cloud {
+  float: right;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.java {
+  width: 550px;
+  background-color: #FFF;
+  margin-top: 30px;
+  border-radius: 8px;
+  position: relative;
+  height: 300px;
+  float: left;
+  margin-left: 35px;
+  box-shadow: 5px 5px 5px #D0D2D3;
+}
+
+.javahead {
+  border-bottom: 2px solid #2C9676;
+  background-color: #2C9676;
+  border-radius: 5px 5px 0px 0px;
+  color: white;
+  padding: 10px;
+}
+
+.javacontent {
+  padding: 20px;
+}
+
+.button1j {
+  float: left;
+  position: absolute;
+  bottom: 13px;
+  padding-top: 5px;
+  padding-bottom: 8px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 10px;
+  margin-left: 20px;
+  border: 2px solid #D4D9DD;
+  border-radius: 25px;
+  color: #2C9676;
+  font-weight: bold;
+
+}
+.button2j {
+  float: left;
+  position: absolute;
+  padding-top: 5px;
+  padding-bottom: 8px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 10px;
+  left: 75px;
+  bottom: 13px;
+  border: 2px solid #D4D9DD;
+  border-radius: 25px;
+  color: #4B5658;
+  font-weight: bold;
+}
+
+.django {
+  width: 550px;
+  background-color: #FFF;
+  margin-top: 30px;
+  border-radius: 8px;
+  position: relative;
+  height: 300px;
+  float: right;
+  margin-right: 35px;
+  box-shadow: 5px 5px 5px #D0D2D3;
+}
+.djangohead {
+  border-bottom: 2px solid #F092B0;
+  background-color: #F092B0;
+  border-radius: 5px 5px 0px 0px;
+  color: white;
+  padding: 10px;
+}
+.djangocontent {
+  padding: 20px;
+}
+
+.button1d {
+  float: left;
+  position: absolute;
+  bottom: 13px;
+  padding-top: 5px;
+  padding-bottom: 8px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 10px;
+  margin-left: 20px;
+  border: 2px solid #D4D9DD;
+  border-radius: 25px;
+  color: #F092B0;
+  font-weight: bold;
+
+}
+.button2d {
+  float: left;
+  position: absolute;
+  padding-top: 5px;
+  padding-bottom: 8px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 10px;
+  left: 90px;
+  bottom: 13px;
+  border: 2px solid #D4D9DD;
+  border-radius: 25px;
+  color: #4B5658;
+  font-weight: bold;
+}
+
+.woo {
+  width: 550px;
+  background-color: #FFF;
+  margin-top: 30px;
+  border-radius: 8px;
+  position: relative;
+  height: 300px;
+  float: left;
+  margin-left: 35px;
+  box-shadow: 5px 5px 5px #D0D2D3;
+}
+.woohead {
+  border-bottom: 2px solid #838CC7;
+  background-color: #838CC7;
+  border-radius: 5px 5px 0px 0px;
+  color: white;
+  padding: 10px;
+}
+.woocontent {
+  padding: 20px;
+}
+
+.button1w {
+  float: left;
+  position: absolute;
+  bottom: 13px;
+  padding-top: 5px;
+  padding-bottom: 8px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 10px;
+  margin-left: 20px;
+  border: 2px solid #D4D9DD;
+  border-radius: 25px;
+  color: #838CC7;
+  font-weight: bold;
+
+}
+.button2w {
+  float: left;
+  position: absolute;
+  padding-top: 5px;
+  padding-bottom: 8px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 10px;
+  left: 120px;
+  bottom: 13px;
+  border: 2px solid #D4D9DD;
+  border-radius: 25px;
+  color: #4B5658;
+  font-weight: bold;
+}
+
+.fx {
+  width: 550px;
+  background-color: #FFF;
+  margin-top: 30px;
+  border-radius: 8px;
+  position: relative;
+  height: 300px;
+  float: right;
+  margin-right: 35px;
+  box-shadow: 5px 5px 5px #D0D2D3;
+}
+.fxhead {
+  border-bottom: 2px solid #2C9676;
+  background-color: #2C9676;
+  border-radius: 5px 5px 0px 0px;
+  color: white;
+  padding: 10px;
+}
+.fxcontent {
+  padding: 20px;
+}
